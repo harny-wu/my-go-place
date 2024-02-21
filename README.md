@@ -3,3 +3,4 @@
 - code： Go的基础代码练习
 - open-doc: 开源资料收集
 - pro: 小项目
+- notice: 踩坑案例
