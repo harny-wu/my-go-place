@@ -1,0 +1,2 @@
+Info:2024/02/22 16:42:42.218365 main.go:60: 加载本地配置数据: ./proxy_data.json
+Info:2024/02/22 16:45:39.881426 main.go:57: 加载远端数据: http://localhost:3000/proxy/findAll 
